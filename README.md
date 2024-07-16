@@ -1,6 +1,5 @@
 Hi! I'm Aura, and...
 - I'm 20
-- I am fluent in Java and Python
 - You can contact me on Discord @auramkw
 
 
