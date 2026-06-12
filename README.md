@@ -1,5 +1,5 @@
 Hi! I'm Aura, and...
-- I'm 20
+- I'm 22
 - You can contact me on Discord @auramkw
 
 
